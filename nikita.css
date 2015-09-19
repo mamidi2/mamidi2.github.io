@@ -3,3 +3,7 @@ body {background:url("http://i.imgur.com/XzKNOTd.jpg") no-repeat left top;}
 a{color:purple}
 h1{color:pink}
 h3{color:pink}
+img{
+  width:304px
+  height:228px;
+  }
